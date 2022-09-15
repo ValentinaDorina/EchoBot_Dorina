@@ -1,0 +1,5 @@
+#API Token
+API_TOKEN = '5642008352:AAHkol-G6y3YeLKQZXzxGsFJFsA_huaqo1w'
+
+#Admin ID
+admin_id = 920750557
